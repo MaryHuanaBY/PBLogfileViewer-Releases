@@ -172,7 +172,7 @@ Right-clicking a chart opens a floating menu bar.
 It contains the following functions in this order:
 
 - **Measurement Data Display:** Switches between reduced and complete display of the measurement data.
-- **File Selection Dialog:** Reopens the file selection dialog.
+- **Measurement Selection Dialog:** Reopens the measurement selection dialog.
 - **Time Measurement:** Allows the time interval between two events to be measured.
 - **Configuration:** Opens the configuration dialog.
 
