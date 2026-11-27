@@ -12,8 +12,8 @@ Download the latest Windows installer from the [Releases](../../releases) page.
 
 ## Documentation
 
-- [User Guide (German)](https://github.com/MaryHuanaBY/PBLogfileViewer/blob/main/help/HELP.md)
-- [User Guide (English)](https://github.com/MaryHuanaBY/PBLogfileViewer/blob/main/help/HELP_EN.md)
+- [User Guide (German)](help/HELP.md)
+- [User Guide (English)](help/HELP_EN.md)
 
 *Note: The screenshots in the English user guide currently show the German-language interface.*
 
