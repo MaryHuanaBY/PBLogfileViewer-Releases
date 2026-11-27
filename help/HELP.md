@@ -63,7 +63,7 @@ Mit einem Klick auf **Öffnen** wird der Dateiauswahldialog geschlossen. Unmitte
 
 ### 3.2 Messwerte auswählen
 
-Nach dem Öffnen der LOG-Datei erscheint der Dateiauswahldialog zur Auswahl der Messwerte.
+Nach dem Laden der LOG-Datei erscheint ein Dialog zur Auswahl der anzuzeigenden Messwerte.
 
 Die verfügbaren Messwerte werden in einer hierarchischen Baumstruktur dargestellt.
 
