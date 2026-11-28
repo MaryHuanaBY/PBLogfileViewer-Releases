@@ -3,8 +3,8 @@
 **An independent log file viewer and analysis tool for PowerBox-Systems telemetry log files.**
 
 PBLogfileViewer allows you to open, view and analyse PowerBox-Systems telemetry log files in a graphical interface.
-The application provides a convenient way to inspect recorded telemetry data from PowerBox systems.
-PBLogfileViewer is an independent software project and is not affiliated with or endorsed by PowerBox Systems.
+The application provides a convenient way to inspect recorded telemetry data from PowerBox-Systems GmbH.
+PBLogfileViewer is an independent software project and is not affiliated with or endorsed by PowerBox-Systems GmbH.
 
 This is the public release and community repository for PBLogfileViewer.
 
